@@ -1,0 +1,7 @@
+name: timstof3
+dependencies:
+  - python=3.6
+  - numpy
+  - matplotlib
+  - sortedcontainers
+  - scipy
